@@ -1,0 +1,27 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "ki-radar24",
+  "displayName": "KI-Radar24",
+  "version": "1.0.0",
+  "description": "Find AI tools, AI companies and AI freelancers from the German directory ki-radar24.de. Read-only, no login needed.",
+  "author": {
+    "name": "Radarcraft Studios",
+    "email": "support@ki-radar24.de",
+    "url": "https://ki-radar24.de"
+  },
+  "homepage": "https://ki-radar24.de",
+  "repository": "https://github.com/ki-radar24/ki-radar24-gemini",
+  "license": "MIT",
+  "keywords": [
+    "ai-tools",
+    "ai-directory",
+    "ai-freelancer",
+    "mcp",
+    "germany"
+  ],
+  "suggestedPrompts": [
+    "Welche KI-Tools gibt es für Buchhaltung?",
+    "Finde eine KI-Agentur in München.",
+    "Ich suche einen KI-Freelancer für Chatbots."
+  ]
+}
