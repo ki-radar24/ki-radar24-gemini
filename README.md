@@ -1,11 +1,19 @@
-# KI-Radar24 für Gemini CLI
+# KI-Radar24 für Gemini CLI und Antigravity
 
-Finde KI-Tools, KI-Unternehmen und KI-Freelancer aus dem deutschen Verzeichnis [KI-Radar24](https://ki-radar24.de) direkt in Gemini CLI.
+Finde KI-Tools, KI-Unternehmen und KI-Freelancer aus dem deutschen Verzeichnis [KI-Radar24](https://ki-radar24.de) direkt in Gemini CLI und Google Antigravity.
 
 ## Installation
 
+### Gemini CLI
+
 ```bash
 gemini extensions install https://github.com/ki-radar24/ki-radar24-gemini
+```
+
+### Antigravity
+
+```bash
+agy plugin install https://github.com/ki-radar24/ki-radar24-gemini
 ```
 
 Danach einfach fragen, zum Beispiel:
@@ -43,10 +51,14 @@ MIT
 
 ## English
 
-Find AI tools, AI companies and AI freelancers from the German directory [KI-Radar24](https://ki-radar24.de) right inside Gemini CLI.
+Find AI tools, AI companies and AI freelancers from the German directory [KI-Radar24](https://ki-radar24.de) right inside Gemini CLI and Google Antigravity.
 
 ```bash
+# Gemini CLI
 gemini extensions install https://github.com/ki-radar24/ki-radar24-gemini
+
+# Antigravity
+agy plugin install https://github.com/ki-radar24/ki-radar24-gemini
 ```
 
 All tools are read-only and need no login. MCP server: `https://ki-radar24.de/mcp`
