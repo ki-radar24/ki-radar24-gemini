@@ -4,6 +4,7 @@
   "displayName": "KI-Radar24",
   "version": "1.0.0",
   "description": "Find AI tools, AI companies and AI freelancers from the German directory ki-radar24.de. Read-only, no login needed.",
+  "logo": "assets/logo.png",
   "author": {
     "name": "Radarcraft Studios",
     "email": "support@ki-radar24.de",
